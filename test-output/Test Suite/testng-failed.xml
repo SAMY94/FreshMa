@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test thread-count="5" name="Test Case-6(failed)">
+    <classes>
+      <class name="TestCases.OrderTrackingFunction">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="orderTracking"/>
+        </methods>
+      </class> <!-- TestCases.OrderTrackingFunction -->
+    </classes>
+  </test> <!-- Test Case-6(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
